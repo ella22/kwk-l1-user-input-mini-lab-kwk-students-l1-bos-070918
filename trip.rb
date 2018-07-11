@@ -11,4 +11,4 @@ puts "How many nights would you like to stay?"
 nights=gets.chomp.capitalize
 
 
-puts "In your trip, you're going to stay at #{stay}, for #{nights} nights, and eat #{eats}."
+puts "In your trip, you're going to stay at #{stay}, for #{nights} nights, and eat #{eat}."
